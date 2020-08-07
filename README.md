@@ -1,9 +1,11 @@
 Instructions to run the code.
 
-1 - cd to the root directory 
+1 - Clone the app 
 
-2 - run "npm install "
+3 - cd to root directory
 
-3 - NODE_ENV=local npm start
+3 - run "npm install "
 
-4 - http://localhost:3001/transactions/api
+4 - NODE_ENV=local npm start
+
+5 - http://localhost:3001/transactions/api
